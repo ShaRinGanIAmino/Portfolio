@@ -93,7 +93,7 @@ const Projects = () => {
             </a>
             <br />
             <a
-              href="https://deluxe-cheesecake-55545c.netlify.app/"
+              href="https://majestic-lily-adddff.netlify.app"
               className=" font-medium text-primary text-xs hover:text-green-600"
             >
               The project link
