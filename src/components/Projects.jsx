@@ -45,7 +45,7 @@ const Projects = () => {
             </a>
             <br />
             <a
-              href="https://github.com/ShaRinGanIAmino/Yugioh-2.0"
+              href="https://www.behance.net/gallery/164801307/All-Drive"
               className=" font-medium text-primary text-xs hover:text-green-600"
             >
               The project code link
